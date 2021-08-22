@@ -1,0 +1,7 @@
+.carousel-item {
+  filter: grayscale(100%);
+}
+
+a.navbar-brand.display-1.col-4 {
+  font-size: 3rem;
+}
